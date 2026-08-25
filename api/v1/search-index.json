@@ -1,0 +1,11 @@
+{
+  "byId": {
+    "programming-concepts": {
+      "id": "programming-concepts",
+      "name": "Programming Concepts",
+      "status": "scaffold",
+      "source": "Reference compilation"
+    }
+  },
+  "searchableFields": []
+}
